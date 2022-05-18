@@ -1,0 +1,152 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Times New Roman', Times, serif;
+}
+.a{
+    display: flex;
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+}
+
+.b{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    width: 50%;
+    height: 800px;
+}
+.c{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 100%;
+    border: 1px;
+    border-color: grey;
+    border-style:solid ;
+    height: 50px;
+    
+}
+
+#ca{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items:center ;
+    width: 200px;
+}
+#caa{
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.h{
+    display: flex;
+    border-left: 1px solid gray;
+    height: 50px;
+    margin-right: 10px;
+}
+#cb{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: center;
+    align-content: space-between;
+    margin: 10px;
+}
+
+#cc{
+    display: flex;
+    flex-direction: row;
+ 
+    font-size: 15px;
+    margin-right: 50px;
+    margin-top: 10px;
+}
+
+#cca{
+
+  
+    
+}
+
+#cba{
+    margin-left:10px ;
+    margin-top: 10px;
+    font-size: 10px;
+}
+
+.d{
+    display: flex;
+    flex-direction: row;
+}
+
+#da{
+    display: flex;
+    width: 100%;
+   
+}
+#da img{
+    width: 100%;
+
+}
+#db{
+    margin: px;
+    
+}
+
+
+
+
+#dbb{
+    color: grey;
+}
+
+button{
+    width: 80px;
+    height: 30px;
+    background-color: #3E6644;
+    border: none;
+    color: white;
+    margin-right: 10px;
+}
+
+.e{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+#eb{
+    display: flex;
+    flex-direction:row ;
+
+}
+
+#eba, #ebb, #ebc{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    width: 150px;
+    height: 150px;
+   
+}
+
+#eba, #ebc{
+    background-color: #FCFBFC;
+}
+
+#ebb {
+    background-color: #3E6644;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    color: #FCFBFC;
+    
+}
+
+#ebba{
+    margin: 10px;
+}
